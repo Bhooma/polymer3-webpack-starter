@@ -1,13 +1,6 @@
 [![
 
-	•	Stepped up during MFE resource shortages, reallocating work and mentoring juniors to close INB/RNC deliverables.
-	•	Guided team in UAT and production defect triage for cross-tribe issues (e.g., JDK upgrade, recon failures).
-	•	Conducted knowledge-sharing sessions on BOS POC, API automation, and DR learnings.
-	•	Encouraged adoption of Swagger-first API design and Git branching standards across squads.
-	•	Acted as go-to escalation point for Payments MFE UAT, ensuring smoother production readiness.
-	•	Collaborated closely with FMS, RNC, and Infra teams to reduce silos and resolve blockers quickly
-
-
+	•	
 Known Vulnerabilities](https://snyk.io/test/github/web-padawan/polymer3-webpack-starter/badge.svg)](https://snyk.io/test/github/web-padawan/polymer3-webpack-starter)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Lighthouse score: 91/100](https://lighthouse-badge.appspot.com/?score=91&compact&category=PWA)](https://github.com/ebidel/lighthouse-badge)
