@@ -1,4 +1,22 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/web-padawan/polymer3-webpack-starter/badge.svg)](https://snyk.io/test/github/web-padawan/polymer3-webpack-starter)
+[![
+
+	1.	Designed and implemented an API automation framework using Swagger, reducing redundancy and effort across tribes.
+	2.	Completed the BOS to OCBC integration POC (Web) within a short timeline, demonstrating cross-platform feasibility.
+	3.	Introduced DevOps process improvements, including:
+	•	Assigned default reporters for cloned Jira tickets to ensure proper ownership.
+	•	Enforced mandatory labels, namespaces, and due dates for tech debt tracking.
+	•	Streamlined MFE build process with automated code review checks to prevent production issues.
+	•	Drove domain-level Bitbucket namespace creation for better code management.
+	•	Automated scanning and sonar bulk exclusions to improve code quality.
+	•	Enhanced production readiness by printing DR status in Jira.
+	•	Automated Swagger UI updates across microservices to support service discovery and DAST scans.
+	•	Executed DAST POC for MS, integrating vulnerability scanning and remediation workflows.
+	•	Coordinated JDK upgrade changes across CFS by sharing initialization setup and ensuring consistency across digital channels.
+	•	Led QODO POC (analysis, documentation, and vendor collaboration) to scale AI-driven automation across digital channels.
+
+
+
+Known Vulnerabilities](https://snyk.io/test/github/web-padawan/polymer3-webpack-starter/badge.svg)](https://snyk.io/test/github/web-padawan/polymer3-webpack-starter)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Lighthouse score: 91/100](https://lighthouse-badge.appspot.com/?score=91&compact&category=PWA)](https://github.com/ebidel/lighthouse-badge)
 
